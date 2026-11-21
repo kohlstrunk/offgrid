@@ -1,6 +1,5 @@
 scripts/*.bat
 !scripts/*.example.bat
 _zip
-tests/
 id_rsa
 id_rsa.pub
