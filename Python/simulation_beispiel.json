@@ -1,0 +1,236 @@
+{
+  "starts": 3,
+  "zeiten": [
+    4.0,
+    12.0,
+    17.0
+  ],
+  "ende_innen_c": 21.64467457439098,
+  "spitze_innen_c": 22.00122068868829,
+  "minimum_innen_c": 21.410212888493685,
+  "ende_batterie1_kwh": 17.228852999324737,
+  "ende_batterie2_kwh": 6.250000000000011,
+  "minimum_batterie1_kwh": 12.0,
+  "minimum_batterie2_kwh": 2.999999999999993,
+  "strommangel_kwh": 0.0,
+  "ueberschuss_kwh": 8.52063136813992,
+  "komfortabweichung_kh": 0.0,
+  "verlauf": [
+    {
+      "uhrzeit": "00:00",
+      "innen_c": 21.99,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 12.0,
+      "batterie2_kwh": 3.979,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "01:00",
+      "innen_c": 21.87,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 12.0,
+      "batterie2_kwh": 3.729,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "02:00",
+      "innen_c": 21.752,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 12.0,
+      "batterie2_kwh": 3.479,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "03:00",
+      "innen_c": 21.634,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 12.0,
+      "batterie2_kwh": 3.229,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "04:00",
+      "innen_c": 21.534,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 12.0,
+      "batterie2_kwh": 3.042,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "05:00",
+      "innen_c": 21.623,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 12.0,
+      "batterie2_kwh": 3.542,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "06:00",
+      "innen_c": 21.712,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 12.0,
+      "batterie2_kwh": 4.042,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "07:00",
+      "innen_c": 21.8,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 12.002,
+      "batterie2_kwh": 4.78,
+      "einspeisung_kw": 0.0
+    },
+    {
+      "uhrzeit": "08:00",
+      "innen_c": 21.871,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 12.162,
+      "batterie2_kwh": 5.724,
+      "einspeisung_kw": 0.0
+    },
+    {
+      "uhrzeit": "09:00",
+      "innen_c": 21.752,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 12.557,
+      "batterie2_kwh": 6.126,
+      "einspeisung_kw": 0.0
+    },
+    {
+      "uhrzeit": "10:00",
+      "innen_c": 21.634,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 13.142,
+      "batterie2_kwh": 6.649,
+      "einspeisung_kw": 0.0
+    },
+    {
+      "uhrzeit": "11:00",
+      "innen_c": 21.517,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 13.861,
+      "batterie2_kwh": 7.0,
+      "einspeisung_kw": 0.0
+    },
+    {
+      "uhrzeit": "12:00",
+      "innen_c": 21.418,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 14.648,
+      "batterie2_kwh": 7.0,
+      "einspeisung_kw": 0.0
+    },
+    {
+      "uhrzeit": "13:00",
+      "innen_c": 21.508,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 15.431,
+      "batterie2_kwh": 7.0,
+      "einspeisung_kw": 0.0
+    },
+    {
+      "uhrzeit": "14:00",
+      "innen_c": 21.598,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 16.142,
+      "batterie2_kwh": 7.0,
+      "einspeisung_kw": 0.0
+    },
+    {
+      "uhrzeit": "15:00",
+      "innen_c": 21.687,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 16.713,
+      "batterie2_kwh": 7.0,
+      "einspeisung_kw": 0.0
+    },
+    {
+      "uhrzeit": "16:00",
+      "innen_c": 21.758,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 17.09,
+      "batterie2_kwh": 7.0,
+      "einspeisung_kw": 0.0
+    },
+    {
+      "uhrzeit": "17:00",
+      "innen_c": 21.657,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 17.229,
+      "batterie2_kwh": 7.0,
+      "einspeisung_kw": 0.0
+    },
+    {
+      "uhrzeit": "18:00",
+      "innen_c": 21.746,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 17.229,
+      "batterie2_kwh": 7.0,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "19:00",
+      "innen_c": 21.834,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 17.229,
+      "batterie2_kwh": 7.0,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "20:00",
+      "innen_c": 21.922,
+      "bhkw": true,
+      "wp": "STOP",
+      "batterie1_kwh": 17.229,
+      "batterie2_kwh": 7.0,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "21:00",
+      "innen_c": 21.991,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 17.229,
+      "batterie2_kwh": 6.979,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "22:00",
+      "innen_c": 21.872,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 17.229,
+      "batterie2_kwh": 6.729,
+      "einspeisung_kw": 0.25
+    },
+    {
+      "uhrzeit": "23:00",
+      "innen_c": 21.753,
+      "bhkw": false,
+      "wp": "STOP",
+      "batterie1_kwh": 17.229,
+      "batterie2_kwh": 6.479,
+      "einspeisung_kw": 0.25
+    }
+  ]
+}
