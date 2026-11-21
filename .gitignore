@@ -1,0 +1,7 @@
+scripts/*.bat
+!scripts/*.example.bat
+_zip
+default/
+alt/
+id_rsa
+id_rsa.pub
